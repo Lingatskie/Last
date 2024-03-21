@@ -4,7 +4,7 @@ const leftdiv=(nav1,nav2,nav3,title,title2, para,para2, button1,button2,button3,
     div.innerHTML =`
     <nav class="navi">
       <ul>
-        <li><a href="/Home/index.html">${nav1}<a></li>
+        <li><a href="/index.html">${nav1}<a></li>
         <li><a href="/What/index.html">${nav2}</a></li>
         <li><a href="/Act2/index.html">${nav3}</a></li>
       </ul>
